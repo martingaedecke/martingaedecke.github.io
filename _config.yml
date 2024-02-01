@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Martin Gädecke"
-  avatar           : "profile.png"
+  avatar           : "profilepicture.png"
   bio              : "PhD Student in Sociology"
   location         : "Oxford / Berlin"
   employer         : "Nuffield College, University of Oxford"
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "martingaedecke"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "martingaedecke"
   vine             :
   weibo            :
   xing             :
