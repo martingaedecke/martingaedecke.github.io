@@ -11,8 +11,6 @@ Using data from the European Social Survey Rounds 2 and 5, the analysis covers 2
 Preliminary findings suggest a decrease in the proportion of individuals intending to have a child within the next three years in regions severely affected by the Great Recession, with a more pronounced effect observed for men than women. The study sheds light on the nuanced interplay between economic uncertainties and fertility intentions, emphasising the need for a comprehensive understanding of contextual influences on family planning decisions.'
 date: 2024-02-01
 venue: ''
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: ''
 ---
 
 Existing research has predominantly focused on individual factors influencing fertility intentions, overlooking the role of structural and economic contexts. This study addresses this gap by investigating the impact of the 2007-09 Great Recession on fertility intentions within a cross-country and regional framework.
