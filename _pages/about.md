@@ -27,8 +27,3 @@ I am currently immersed in the study of the determinants and consequences of unp
 Individuals facing unplanned parenthood encounter simultaneous challenges, including the search for childcare, adjustments to housing situations, and the negotiation and adaptation of work-family reconciliation. Surprisingly, the field of unplanned parenthood, specifically referring to unintended pregnancies carried to term, remains largely overlooked in research.
 
 My dissertation is organized into three chapters, aiming to unravel the intricate challenges confronted by parents experiencing unplanned parenthood. To achieve this, I employ longitudinal methods, utilizing sequence analysis to delve into the consequences for employment and family life following unplanned parenthood. Through this research, I seek to contribute valuable insights to this often-neglected area of study.
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
