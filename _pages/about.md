@@ -12,7 +12,7 @@ PhD Student in Sociology at Nuffield College, University of Oxford.
 
 About my research
 ======
-I am studying the determinants and consequences of unplanned parenthood in a life course context. Unintended pregnancies are a common phenomenon, accounting for 51% of all pregnancies in the US in 2008 [Finer and Zolna, 2014](https://pubmed.ncbi.nlm.nih.gov/24354819/).
+I am studying the determinants and consequences of unplanned parenthood in a life course context. Unintended pregnancies are a common phenomenon, accounting for 51% of all pregnancies in the US in 2008 [(Finer and Zolna, 2014)](https://pubmed.ncbi.nlm.nih.gov/24354819/).
 
 
 
