@@ -22,7 +22,7 @@ Thanks for stopping by!
 
 My research
 ======
-I am currently immersed in the study of the determinants and consequences of unplanned parenthood within the broader context of the life course. Despite being a prevalent phenomenon, unintended pregnancies constituted a significant 51% of all pregnancies in the US in 2008, as highlighted by Finer and Zolna in their 2014 study [](https://pubmed.ncbi.nlm.nih.gov/24354819/).
+I am currently immersed in the study of the determinants and consequences of unplanned parenthood within the broader context of the life course. Despite being a prevalent phenomenon, unintended pregnancies constituted a significant 51% of all pregnancies in the US in 2008, as highlighted by [Finer and Zolna in their 2014 study](https://pubmed.ncbi.nlm.nih.gov/24354819/).
 
 Individuals facing unplanned parenthood encounter simultaneous challenges, including the search for childcare, adjustments to housing situations, and the negotiation and adaptation of work-family reconciliation. Surprisingly, the field of unplanned parenthood, specifically referring to unintended pregnancies carried to term, remains largely overlooked in research.
 
