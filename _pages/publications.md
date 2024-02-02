@@ -4,6 +4,17 @@ title: "Projects"
 permalink: /publications/
 author_profile: true
 ---
+What to expect when it's unexpected? Unplanned parenthood and precarious career trajectories in Germany.
+========
+Research suggests motherhood's impact on women's careers varies by parity and timing as earlier first births and career interruptions impose greater career penalties. Existing studies have primarily focused on isolated outcomes, such as wages, neglecting broader consequences on overall career trajectories. Moreover, there is a research gap regarding the role of fertility intentions and of planning parenthood in mitigating adverse effects.
+
+This study introduces a novel approach to analyse career trajectories after parenthood, comparing individuals who planned for parenthood with those who did not. Those who did not plan for parenthood often face simultaneous challenges, such as negotiating work-family reconciliation, childcare, and housing situations. Additionally, unplanned parenthood may be linked to unfavorable career timing. I investigate whether unplanned parenthood functions as an economic shock, associated with more episodes of precarious employment statuses, including unemployment, marginal employment, and (prolonged) parental leave, thereby resulting in diminished lifetime earnings and human capital accumulation.
+
+Using pairfam data and sequence analysis, I consider intentions preceding pregnancy and categorise parenthood status as either planned or unplanned, based on whether individuals expressed a desire for children. I address two questions: First, what factors are associated with (un)planned parenthood? Second, does unplanned parenthood contribute to increased precarity in career trajectories?
+
+Preliminary findings indicate unplanned parenthood in 15.8% of first births, 10.1% of second births, and 45.3% of third births, associated with lower age-at-parenthood and more precarious career trajectories. Gender differences emerge, as unplanned parenthood has minimal impact on men but significant effects on women.
+
+[Download abstract here](http://martingaedecke.github.io/_publications/ECSRpaper.pdf)
 
 Navigating Uncertainty: Exploring the Impact of the Great Recession on Fertility Intentions.
 ========
