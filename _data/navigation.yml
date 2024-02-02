@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+##  - title: "Talks"
+##    url: /talks/
 
   - title: "CV"
     url: /files/Gaedecke_CV.pdf
