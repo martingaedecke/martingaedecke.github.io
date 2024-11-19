@@ -4,6 +4,20 @@ title: "Projects"
 permalink: /publications/
 author_profile: true
 ---
+
+Household Income, Gender Role Attitudes and Fertility Intentions in Australia.
+========
+
+Work plays a crucial role in couples' fertility decisions, yet the influence of each partner's absolute and relative income on family planning remains underexplored. This study investigates how these income dynamics, mediated by gender role attitudes, shape agreement or disagreement on short-term fertility intentions in Australia, a context characterized by high childcare costs and limited welfare support.
+
+Using data from the Household, Income and Labour Dynamics in Australia (HILDA) survey (2005–2019) on  women (ages 18–47) and their male partners, this study addresses the question: How do absolute and relative income influence short-term fertility intentions, and how are these effects mediated by gender role attitudes?
+
+Findings reveal that income similarity between partners fosters alignment in fertility intentions, while having a sole female or male breadwinner decreases the likelihood of both partners agreeing to have a first or second child. Gender role attitudes play a more significant role in shaping fertility decisions at lower parities, whereas household income becomes increasingly influential as couples progress to subsequent children.
+
+Sample-Table:
+
+[Click here to view the sample table](_publications/tratified_table.html)
+
 What to expect when it's unexpected? Unplanned parenthood and precarious career trajectories in Germany.
 ========
 Research suggests motherhood's impact on women's careers varies by parity and timing as earlier first births and career interruptions impose greater career penalties. Existing studies have primarily focused on isolated outcomes, such as wages, neglecting broader consequences on overall career trajectories. Moreover, there is a research gap regarding the role of fertility intentions and of planning parenthood in mitigating adverse effects.
