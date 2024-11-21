@@ -18,7 +18,7 @@ Findings reveal that income similarity between partners fosters alignment in fer
 
 Sample-Table:
 
-[Click here to view the sample table](http://martingaedecke.github.io/_publications/stratified_table.html)
+[Click here to view the sample table](stratified_table.html)
 
 What to expect when it's unexpected? Unplanned parenthood and precarious career trajectories in Germany.
 ========
