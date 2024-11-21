@@ -14,8 +14,7 @@ Using data from the Household, Income and Labour Dynamics in Australia (HILDA) s
 
 Findings reveal that income similarity between partners fosters alignment in fertility intentions, while having a sole female or male breadwinner decreases the likelihood of both partners agreeing to have a first or second child. Gender role attitudes play a more significant role in shaping fertility decisions at lower parities, whereas household income becomes increasingly influential as couples progress to subsequent children.
 
-
-![](http://martingaedecke.github.io/_graphs/graph1.png)
+![Household Income, Breadwinner typology and Fertility Intentions on the Couple Level](http://martingaedecke.github.io/_graphs/graph1.png)
 
 Sample-Table:
 
