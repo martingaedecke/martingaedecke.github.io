@@ -12,9 +12,9 @@ author_profile: true
 Sexualaufklärung und Familienplanung: *Informationsdienst der Bundeszentrale für gesundheitliche Aufklärung
 (BZgA)*, 1, 28–33. [doi.org/10.17623](https://doi.org/10.17623/BZgA_SRH:forum_2023-1_beitrag_reproduktionspolitik_datenbank)
 
-- **Gädecke, Martin**; Struffolino, Emanuela; Zagel, Hannah; Fasang, Anette (2021): KOMPAKK index of occupations’ teleworkability in Germany. SowiDataNet|datorium - *GESIS Data Archive*. Version 1.0.0. Dataset. [doi.org/10.7802/2263](https://doi.org/10.7802/2263)
+- **Gädecke, Martin**; Struffolino, Emanuela; Zagel, Hannah; Fasang, Anette (2021): KOMPAKK index of occupations’ teleworkability in Germany. SowiDataNet datorium - *GESIS Data Archive*. Version 1.0.0. Dataset. [doi.org/10.7802/2263](https://doi.org/10.7802/2263)
 
-- **Gädecke, Martin**; Zagel, Hannah; Struffolino, Emanuela; Fasang, Anette (2021): KOMPAKK index of economic sectors closure during the first wave of COVID-19. Version 1.0.0. SowiDataNet|datorium - *GESIS Data Archive*. Version 1.0.0. Dataset [doi.org/10.7802/2247](https://doi.org/10.7802/2247)
+- **Gädecke, Martin**; Zagel, Hannah; Struffolino, Emanuela; Fasang, Anette (2021): KOMPAKK index of economic sectors closure during the first wave of COVID-19. Version 1.0.0. SowiDataNet datorium - *GESIS Data Archive*. Version 1.0.0. Dataset [doi.org/10.7802/2247](https://doi.org/10.7802/2247)
 
 - Zagel, Hannah, Emanuela Struffolino, **Martin Gädecke** (2021): Wirtschaftszweige im Lockdown während der ersten Welle der Covid-19 Pandemie: ein Vergleich zwischen den Bundesländern, *FIS-Briefing* (Fördernetzwerk Interdisziplinäre Sozialpolitikforschung)
 
