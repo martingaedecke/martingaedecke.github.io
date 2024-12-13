@@ -18,6 +18,6 @@ Sexualaufklärung und Familienplanung: *Informationsdienst der Bundeszentrale f�
 
 - Zagel, Hannah, Emanuela Struffolino, **Martin Gädecke** (2021): Wirtschaftszweige im Lockdown während der ersten Welle der Covid-19 Pandemie: ein Vergleich zwischen den Bundesländern, *FIS-Briefing* (Fördernetzwerk Interdisziplinäre Sozialpolitikforschung)
 
-- Fasang, Anette, **Martin Gädecke**, Emanuela Struffolino, Hannah Zagel (2020): „Mit Risiken rechnen. Sozialpolitik muss Individuen ebenso im Blick haben wie ihr Zusammenleben in Haushalten", *WZB Mitteilungen* Heft 170
+- Fasang, Anette, **Martin Gädecke**, Emanuela Struffolino, Hannah Zagel (2020): „Mit Risiken rechnen. Sozialpolitik muss Individuen ebenso im Blick haben wie ihr Zusammenleben in Haushalten", *WZB Mitteilungen* Heft 170 [link](https://bibliothek.wzb.eu/artikel/2020/f-23520.pdf)
 
 - **Gädecke, Martin**; Struffolino, Emanuela; Zagel, Hannah (2020): Family planning centres and doctors' conscientious objection in Italy: Historical series by region. Version 1.0.0. WZB Berlin Social Science Center. Dataset. [doi.org/10.7802/1.2031](https://dx.doi.org/10.7802/1.2031)
