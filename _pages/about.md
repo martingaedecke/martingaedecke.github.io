@@ -12,20 +12,23 @@ PhD Student in Sociology at Nuffield College, University of Oxford.
 
 About me
 ======
-Hello everyone,
 
-I'm Martin, a Sociology PhD Student at the University of Oxford. My academic journey began with a Bachelor's and Masters in Social Sciences at Humboldt University, Berlin. This esteemed institution equipped me with valuable skills in quantitative research techniques, particularly in sequence analysis and life course research—skills that continue to shape my work.
+I'm Martin, a Sociology PhD Student at the University of Oxford. My academic journey began at Humboldt University in Berlin, where I earned a Bachelor's and Master's degree in Social Sciences. It was during this time that I developed a strong foundation in quantitative research methods, particularly sequence analysis and life course research—tools that now play a central role in my work.
 
-Originally hailing from Brandenburg, the outer area of Berlin, my heart remains tied to the city despite my transition to Oxford. Beyond academia, I find joy in traveling, playing football, and indulging my passion for photography. While I consider myself an enthusiastic photographer (albeit a beginner), you can catch glimpses of my work on my [Instagram page](https://www.instagram.com/m.a.gaedecke/).
+Originally from Berlin, I still hold a deep affection for the city despite now calling Oxford home. Outside Academia, I enjoy traveling, attending concerts, and pursuing photography as a creative outlet. While I’m an enthusiastic (albeit beginner) photographer, I occasionally share my work on my [Instagram page](https://www.instagram.com/m.a.gaedecke/).
 
 Thanks for stopping by!
 
 My research
 ======
-Currently, my research is centered on the study of fertility intentions and realization within the context of Australia. Fertility intentions, as reliable predictors of future fertility rates, have gained significant attention, particularly in affluent democracies where individuals often desire more children than they ultimately have. This phenomenon has sparked discussions on parenthood postponement and low fertility rates. Yet, there remains a gap in understanding how childbearing plans evolve over the life course and how employment influences the realization of fertility intentions.
+My research focuses on understanding fertility intentions and their evolution over the life course, with a particular interest in how individuals’ plans for having children are shaped and realized. Fertility intentions are key predictors of future fertility rates and have become a crucial area of study in affluent democracies, where many people express the desire for more children than they ultimately have. This gap has raised important questions about the postponement of parenthood, low fertility rates, and the structural and personal factors that affect these outcomes.
 
-Drawing on my expertise in the study of fertility intentions and realization, I am particularly focused on examining the interplay between employment, specifically job prestige, and fertility intentions and realization among individuals aged 23-40 in Australia. My research aims to address crucial questions regarding the evolution of childbearing plans over the life course and the influence of employment on the realization of fertility intentions.
+I approach this topic by taking a life course perspective, examining how fertility intentions change over time and how employment—particularly the interplay of partners’ incomes—influences whether these intentions are realized. Adopting a couples' perspective, I focus on the Australian context, using longitudinal methods and sequence analysis to investigate gendered dynamics in fertility planning and realization.
 
-Employing longitudinal methods and utilizing sequence analysis techniques, I analyze data from the Household, Income and Labour Dynamics in Australia Survey (HILDA) spanning 2005 to 2019 (N=3,066). Through this research, I seek to offer a nuanced understanding of the relationship between employment, fertility intentions, and realization, with a particular emphasis on gender differences in Australia's socio-economic context.
+My work is based on data from the Household, Income and Labour Dynamics in Australia Survey (HILDA), covering the years 2005 to 2019. This dataset allows me to explore nuanced questions, such as:
 
-Preliminary findings suggest that while fertility intentions may not be strongly associated with high-prestige job trajectories, there is a notably higher likelihood of realizing those intentions, especially among men. Recognizing the significance of gender and employment in the fertility-intention-realization gap is crucial for informing policies that support individuals in achieving their childbearing plans.
+- How do childbearing plans evolve across the life course?
+- What role does employment and income play in shaping or hindering the realization of these intentions?
+- How do these dynamics differ for men and women in Australia’s socio-economic landscape?
+
+Through my research, I aim to contribute to a deeper understanding of how fertility intentions interact with employment and income dynamics, shedding light on critical challenges in fertility behavior and gender equality.
