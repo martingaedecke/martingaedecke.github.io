@@ -17,7 +17,7 @@ I'm Martin, a Sociology PhD Student at the University of Oxford. My academic jou
 
 Originally from Berlin, I still hold a deep affection for the city despite now calling Oxford home. Outside Academia, I enjoy traveling, attending concerts, and pursuing photography as a creative outlet. While I’m an enthusiastic (albeit beginner) photographer, I occasionally share my work on my [Instagram page](https://www.instagram.com/m.a.gaedecke/).
 
-Thanks for stopping by!
+Thanks for stopping by :)
 
 My research
 ======
