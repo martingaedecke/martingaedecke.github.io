@@ -188,6 +188,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    sort_by: years
+    permalink: /projects/:path/
+
 
 
 # Defaults

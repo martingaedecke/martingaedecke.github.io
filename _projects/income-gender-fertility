@@ -1,0 +1,41 @@
+---
+title: "Household Income, Gender Role Attitudes and Fertility Intentions in Australia"
+layout: single
+collection: projects
+status: "Working Paper"
+years: "2023"
+data: "HILDA 2005–2019"
+methods: ["Couple-level panel models", "Mediation analysis"]
+keywords: ["Fertility", "Income inequality", "Gender attitudes", "Australia"]
+---
+
+## Research Question
+
+How do absolute and relative income within couples influence short-term fertility intentions, and how are these effects mediated by gender role attitudes?
+
+## Data
+
+Household, Income and Labour Dynamics in Australia (HILDA), waves 2005–2019.
+Sample: Women aged 18–47 and their male partners.
+
+## Methods
+
+- Couple-level panel analysis
+- Breadwinner typology
+- Mediation via gender role attitudes
+
+## Key Findings
+
+- Income similarity increases alignment in fertility intentions.
+- Sole breadwinner constellations reduce agreement on first and second births.
+- Gender role attitudes are more influential at lower parities.
+- Household income becomes more relevant at higher parities.
+
+## Outputs
+
+- Working paper (PDF link)
+- Sample table
+- Slides
+- Code repository
+
+![Breadwinner typology and fertility intentions](/assets/images/graph1.png)
