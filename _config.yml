@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+remote_theme             : mmistakes/minimal-mistakes@4.24.0
 title                    : "Martin Gädecke"
 title_separator          : "-"
 name                     : &name "Martin Gädecke"
