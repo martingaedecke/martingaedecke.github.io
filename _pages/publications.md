@@ -11,9 +11,9 @@ author_profile: true
 
 ## Under Review
 
-- **Gädecke, M.**, & Karalashvili, A. Growing Up Unequal: Family Background and the Formation of Fertility Expectations in the United States. *Under review at Demographic Research.* [Preprint](https://doi.org/10.31235/osf.io/zjk2t)
+- **Gädecke, M.**, & Karalashvili, A. Growing Up Unequal: Family Background and the Formation of Fertility Expectations in the United States. *Under review at Demographic Research.* [Preprint](https://osf.io/preprints/socarxiv/zjk2t_v1)
 
-- Rowold, C., **Gädecke, M.**, & van Winkle, Z. Children's Family Complexity and Educational Outcomes: A Fixed-Effects Analysis of Multi-Dimensional Sequence-Based Measures. *Under review at Social Science Research.* [Preprint](https://doi.org/10.31235/osf.io/g4d2b)
+- Rowold, C., **Gädecke, M.**, & van Winkle, Z. Children's Family Complexity and Educational Outcomes: A Fixed-Effects Analysis of Multi-Dimensional Sequence-Based Measures. *Under review at Social Science Research.* [Preprint](https://osf.io/preprints/socarxiv/g4d2b_v1)
 
 - **Gädecke, M.** Couples' Income, Gender Role Attitudes, and Fertility Intentions in Australia. *Under review at Journal of Family Research.*
 
