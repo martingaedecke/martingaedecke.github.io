@@ -7,13 +7,13 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+- Rowold, C., **Gädecke, M.**, & Van Winkle, Z. (2027). Does it matter how we measure family complexity? Sequence-based indices and children's educational outcomes. *Social Science Research*, 141, 103445. [doi.org/10.1016/j.ssresearch.2026.103445](https://doi.org/10.1016/j.ssresearch.2026.103445)
+
 - Zagel, H., Khan, R., Kluge, A. E., Tamakoshi, M., & **Gädecke, M.** (2024). Conceptualizing and measuring state regulation of reproductive processes: The international reproduction policy database. *Journal of European Social Policy*, 35(2). [doi.org/10.1177/09589287241302962](https://doi.org/10.1177/09589287241302962)
 
 ## Under Review
 
 - **Gädecke, M.**, & Karalashvili, A. Growing Up Unequal: Family Background and the Formation of Fertility Expectations in the United States. *Under review at Demographic Research.* [Preprint](https://osf.io/preprints/socarxiv/zjk2t_v1)
-
-- Rowold, C., **Gädecke, M.**, & van Winkle, Z. Children's Family Complexity and Educational Outcomes: A Fixed-Effects Analysis of Multi-Dimensional Sequence-Based Measures. *Under review at Social Science Research.* [Preprint](https://osf.io/preprints/socarxiv/g4d2b_v1)
 
 - **Gädecke, M.** Couples' Income, Gender Role Attitudes, and Fertility Intentions in Australia. *Under review at Journal of Family Research.*
 
